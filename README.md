@@ -32,9 +32,15 @@ cp add video in videos directory
 `
 ### Run the server:
 - `
-npm start
+node index.js
 `
 
 ## Endpoints
 - /video
 - non-streaming-video
+
+## Frontend
+
+- cd /vite-project
+- npm install
+- Run npm run dev
