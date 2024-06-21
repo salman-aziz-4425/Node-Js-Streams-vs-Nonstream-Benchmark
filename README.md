@@ -37,7 +37,7 @@ node index.js
 
 ## Endpoints
 - /video
-- non-streaming-video
+- /non-streaming-video
 
 ## Frontend
 
